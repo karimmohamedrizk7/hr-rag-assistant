@@ -1,0 +1,11 @@
+﻿#,question,relevance,faithful,correct,answer
+1,How many days of annual leave do I get?,True,True,True,"Full-time employees receive 21 working days of paid annual leave per year after completing 6 months of service. Employees who have completed 10 years of service, or who are over 50 years old, receive 30 working days."
+2,How much is the overtime rate on Fridays?,True,True,True,Work on Fridays is paid at 200% of the normal hourly rate.
+3,How many days per week can I work remotely?,True,True,True,Eligible employees may work remotely up to 2 days per week.
+4,What percentage of salary is paid during the first 90 days of sick leave?,True,True,True,75% of salary
+5,How many days of maternity leave are given?,True,True,True,Female employees are entitled to 120 days of fully paid maternity leave.
+6,What is the notice period for managers who resign?,True,True,True,60 days
+7,On which day of the month are salaries paid?,True,True,True,Salaries are paid on the 25th of every month.
+8,What is the yearly limit of the health insurance per person?,True,True,True,"The yearly limit of the health insurance is 250,000 EGP per person."
+9,What is the annual training budget per employee?,True,True,True,"The annual training budget per employee is 10,000 EGP."
+10,Does the company allow pets in the office?,True,True,True,I could not find this in the HR policies. Please contact HR at extension 300.
